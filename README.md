@@ -17,5 +17,5 @@ El proyecto fue realizado con las siguientes dependencias NPM:
 # Levantamiento ambiente de desarrollo
 
   * Clonar repositorio.
-  * Posicionado en nuestro proyecto hacer  correr npm-install para descargar e instalar todas las dependecias utilizadas.
+  * Posicionado en nuestro proyecto hacer  correr ```npm-install``` para descargar e instalar todas las dependecias utilizadas.
   * Correr gulp para que se realizen las tareas especificadas.
